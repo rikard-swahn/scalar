@@ -17,5 +17,6 @@
       "name": "API Reference",
       "path": "docs/reference-spec.json"
     }
-  ]
+  ],
+  "publishOnMerge": true
 }
