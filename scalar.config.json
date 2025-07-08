@@ -1,6 +1,6 @@
 {
   "$schema": "https://cdn.scalar.com/schema/scalar-config.json",
-  "subdomain": "my-subdomain",
+  "subdomain": "entur",
   "guides": [
     {
       "name": "My Documentation Site",
