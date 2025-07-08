@@ -18,5 +18,6 @@
       "path": "docs/reference-spec.json"
     }
   ],
+
   "publishOnMerge": true
 }
