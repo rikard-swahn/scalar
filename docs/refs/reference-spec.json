@@ -3,7 +3,7 @@
   "info": {
     "title": "Example Service",
     "version": "1.0.0",
-    "description": "A long and descriptive description",
+    "description": "A long and descriptive description. Update",
     "termsOfService": "https://developer.entur.org/terms-of-service",
     "contact": {
       "name": "API Support",
