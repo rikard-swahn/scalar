@@ -6,7 +6,7 @@
       "name": "My Documentation Site",
       "sidebar": [
         {
-          "path": "docs/introduction.md",
+          "path": "docs/guides/introduction.md",
           "type": "page"
         }
       ]
@@ -15,7 +15,7 @@
   "references": [
     {
       "name": "API Reference",
-      "path": "docs/reference-spec.json"
+      "path": "docs/refs/reference-spec.json"
     }
   ],
 
